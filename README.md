@@ -1,0 +1,2 @@
+# EinsatzRLKollisionsfreieBahnberechnungRoboterarmeStudien
+Studienarbeit zum Einsatz von Reinforcement Learning zur kollisionsfreien Bahnberechnung von Roboterarmen
